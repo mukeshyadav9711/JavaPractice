@@ -5,7 +5,7 @@ public class AddThreeVariables {
         int a=100;
         int b=200;
         int c=3400;
-//        Just to check the changes
+// I have addressed your comment
         int lodePakode = (a + b + c);
         System.out.println("Your total amount is=0"+lodePakode);
     }
